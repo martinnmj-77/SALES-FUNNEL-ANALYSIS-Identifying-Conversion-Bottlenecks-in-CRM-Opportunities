@@ -114,16 +114,18 @@ This project helps identify:
 
 ## Project Structure
 
-├── data/
-│   ├── [sales_teams.csv](https://github.com/user-attachments/files/27135583/sales_teams.csv)
-│   ├── [sales_pipeline.csv](https://github.com/user-attachments/files/27135581/sales_pipeline.csv)
-│   ├── [products.csv](https://github.com/user-attachments/files/27135580/products.csv)
-│   └── [accounts.csv](https://github.com/user-attachments/files/27135579/accounts.csv)
+data/
+[sales_teams.csv](https://github.com/user-attachments/files/27135583/sales_teams.csv)
+[sales_pipeline.csv](https://github.com/user-attachments/files/27135581/sales_pipeline.csv)
+[products.csv](https://github.com/user-attachments/files/27135580/products.csv)
+[accounts.csv](https://github.com/user-attachments/files/27135579/accounts.csv)
 
-├── notebooks/
-│   └── [https://github.com/martinnmj-77/SALES-FUNNEL-ANALYSIS-Identifying-Conversion-Bottlenecks-in-CRM-Opportunities/blob/main/Sales_Funnel_Analysis_Project%20.ipynb)
-├── README.md
-└── requirements.txt
+notebooks/
+[https://github.com/martinnmj-77/SALES-FUNNEL-ANALYSIS-Identifying-Conversion-Bottlenecks-in-CRM-Opportunities/blob/main/Sales_Funnel_Analysis_Project%20.ipynb)
+ 
+README.md
+
+requirements.txt
 ```
 
 ---
