@@ -1,0 +1,2 @@
+# SALES-FUNNEL-ANALYSIS-Identifying-Conversion-Bottlenecks-in-CRM-Opportunities
+Python-based sales funnel analysis project using multi-table CRM opportunity data to identify conversion bottlenecks, analyze deal stage progression, evaluate sales cycle performance, and generate insights on pipeline efficiency, deal outcomes, and product-level performance through feature engineering and exploratory data analysis.
